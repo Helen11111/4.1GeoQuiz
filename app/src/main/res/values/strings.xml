@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="name_main">Викторина\nпо\nгеографии</string>
+    <string name="quest1">На каком материке находится Бразилия?</string>
+    <string name="quest2">Какая страна самая большая в мире?</string>
+    <string name="quest3">Как называется место, где река впадает в другую реку, море или озеро?</string>
+    <string name="quest4">В это озеро нашей страны впадает множество рек, а вытекает из него только одна — Ангара.</string>
+    <string name="quest5">Столица какой страны расположена на реке Нил?</string>
+    <string name="quest6">Какая страна является родиной Олимпийских игр?</string>
+    <string name="quest7">На флаге какой страны изображён кедр?</string>
+    <string name="quest8">Какая из этих рек не протекает по территории России?</string>
+    <string name="quest9">Где находится Индия?</string>
+    <string name="quest10">На какой реке стоит город Санкт-Петербург?</string>
+
+    <string name="textbutton1">Южная Америка</string>
+    <string name="textbutton2">Северная Америка</string>
+    <string name="textbutton3">Африка</string>
+    <string name="textbutton4">Азия</string>
+
+    <string name="textbutton5">Австралия</string>
+    <string name="textbutton6">Канада</string>
+    <string name="textbutton7">США</string>
+    <string name="textbutton8">Россия</string>
+
+    <string name="textbutton9">Исток</string>
+    <string name="textbutton10">Русло</string>
+    <string name="textbutton11">Половодье</string>
+    <string name="textbutton12">Устье</string>
+
+    <string name="textbutton13">Байкал</string>
+    <string name="textbutton14">Селигер</string>
+    <string name="textbutton15">Ладожское</string>
+    <string name="textbutton16">Виктория</string>
+
+    <string name="textbutton17">Египет</string>
+    <string name="textbutton18">Франция</string>
+    <string name="textbutton19">Индия</string>
+    <string name="textbutton20">Казахстан</string>
+
+    <string name="textbutton21">Италия</string>
+    <string name="textbutton22">Турция</string>
+    <string name="textbutton23">Япония</string>
+    <string name="textbutton24">Греция</string>
+
+    <string name="textbutton25">Ливия</string>
+    <string name="textbutton26">Ливан</string>
+    <string name="textbutton27">Боливия</string>
+    <string name="textbutton28">Болгария</string>
+
+    <string name="textbutton29">Волга</string>
+    <string name="textbutton30">Темза</string>
+    <string name="textbutton31">Амур</string>
+    <string name="textbutton32">Обь</string>
+
+    <string name="textbutton33">Северная Америка</string>
+    <string name="textbutton34">Европа</string>
+    <string name="textbutton35">Азия</string>
+    <string name="textbutton36">Африка</string>
+
+    <string name="textbutton37">Днепр</string>
+    <string name="textbutton38">Петер</string>
+    <string name="textbutton39">Нева</string>
+    <string name="textbutton40">Сена</string>
+
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+
+
+    <string name="button_start">Start</string>
+
+</resources>
