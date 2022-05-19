@@ -15,8 +15,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
     Button button1, button2, button3, button4;
     ImageView imageView1;
     ImageButton imgButtonLeft, imgButtonRight;
-    private int currentIndex = 0;
-    int points;
+    private int currentIndex = 0;    int points;
     CountDownTimer countDownTimer;
     long millisUntilFinished;
 
